@@ -16,7 +16,7 @@ const Card = props => (
         <div className="content">
           <ul>
             <li>
-              <strong>Image:</strong> {props.image} 
+              <strong>Image:</strong> {props.name} 
             </li>
           </ul>
         </div>
